@@ -17,6 +17,9 @@
 
 ---
 
+> **This repository is for showcase purposes only.**  
+> That’s why you won’t find the `.config` folder here.
+> 
 ## System
 
 - **OS:** Arch Linux
