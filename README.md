@@ -17,9 +17,6 @@
 
 ---
 
-> **This repository is for showcase purposes only.**  
-> That’s why you won’t find the `.config` folder here.
-> 
 ## System
 
 - **OS:** Arch Linux
@@ -28,15 +25,16 @@
 - **Login Manager:** Ly
 - **Bar:** Waybar
 - **Launcher:** Rofi
-- **Lock / Logout:** Hyprlock · Wlogout
+- **Lock / Logout:** Hyprlock - Rofi
 
 ---
 
 ## UI / Aesthetic
 
-- **Font UI / Terminal:** 0xProto Nerd Font
+- **Font UI / Terminal:** CaskaydiaCove Nerd Font
 - **GTK Theme:** Black And White
-- **Icons:** Yet Another Monochrome Icon Set
+- **Icons:** Besgnulinux Mono Gry
+- **Cursor:** Capitaine
 
 ---
 
@@ -50,4 +48,15 @@
 
 ---
 
+## Core Applications
 
+- **Browser:** Zen Browser
+- **Notes / PKM:** Obsidian
+- **Music:** Spotify + Spicetify
+- **Code Editor:** Neovim · Vscodium
+- **File Managers:** Thunar
+- **Games:** Steam
+- **Torrent:** qBittorrent
+- **Streaming / Record:** OBS Studio
+
+---
