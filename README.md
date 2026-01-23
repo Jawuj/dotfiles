@@ -1,3 +1,6 @@
+
+> Just a Showcase. Not .config files here.
+
 ## Black & White (Arch Base)
 
 <table>
