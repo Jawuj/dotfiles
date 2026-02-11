@@ -22,8 +22,7 @@
 
 ---
 
-<video src="Images/Videos/VideoDot.mp4" width="800" controls muted autoplay loop>
-  No video supported.
+<video src="Images/Videos/VideoDot.mp4" width="100%" controls muted autoplay loop>
 </video>
 
 ---
