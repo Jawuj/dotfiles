@@ -1,20 +1,22 @@
-
-> Just a Showcase. Not .config files here.
-
 ## Black & White (Arch Base)
 
 <table>
   <tr>
-    <td><img src="Images/desktop.png" width="600"></td>
-    <td><img src="Images/desktopterminal.png" width="600"></td>
+    <td><img src="Images/desktop.png" width="600" alt="Desktop View"></td>
+    <td><img src="Images/explorers.png" width="600" alt="File Explorers"></td>
   </tr>
   <tr>
-    <td><img src="Images/desktopapps1.png" width="600"></td>
-    <td><img src="Images/desktopapps2.png" width="600"></td>
+    <td><img src="Images/obsidian.png" width="600" alt="Obsidian Note Taking"></td>
+    <td><img src="Images/zen-browser.png" width="600" alt="Zen Browser"></td>
   </tr>
   <tr>
-    <td><img src="Images/desktopwlogout.png" width="600"></td>
-    <td><img src="Images/desktoprmpc.png" width="600"></td>
+    <td><img src="Images/rofi.png" width="600" alt="Rofi Launcher"></td>
+    <td><img src="Images/rofi-wallpaper.png" width="600" alt="Rofi Wallpaper Selector"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="Images/rofi-poweroff.png" width="600" alt="Rofi Power Menu">
+    </td>
   </tr>
 </table>
 
@@ -28,7 +30,7 @@
 - **Login Manager:** Ly
 - **Bar:** Waybar
 - **Launcher:** Rofi
-- **Lock / Logout:** Hyprlock - Rofi
+- **Logout:** Rofi
 
 ---
 
@@ -46,8 +48,7 @@
 - **Terminal:** Kitty
 - **Shell Prompt:** Starship
 - **System Info:** Fastfetch
-- **Audio Visualizer:** Cava
-- **Music Daemon:** MPD + MPC + rmpc
+- **Shell:** zsh
 
 ---
 
@@ -56,10 +57,9 @@
 - **Browser:** Zen Browser
 - **Notes / PKM:** Obsidian
 - **Music:** Spotify + Spicetify
-- **Code Editor:** Neovim · Vscodium
-- **File Managers:** Thunar
-- **Games:** Steam
-- **Torrent:** qBittorrent
+- **Code Editor:** Vscodium
+- **File Managers:** Yazi - Nemo 
+- **Games Installed:** Roblox 
 - **Streaming / Record:** OBS Studio
 
 ---
